@@ -1,0 +1,1 @@
+Proof-of-concept Ecwid store on public Github Pages site.
